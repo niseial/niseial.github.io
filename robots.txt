@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niseial.github.io/sitemap.html.gz
+Sitemap: https://niseial.github.io/app/sitemap.html.gz
+Sitemap: https://niseial.github.io/assets/sitemap.html.gz
+Sitemap: https://niseial.github.io/css/sitemap.html.gz
+Sitemap: https://niseial.github.io/includes/sitemap.html.gz
+Sitemap: https://niseial.github.io/item/sitemap.html.gz
+Sitemap: https://niseial.github.io/src/sitemap.html.gz
